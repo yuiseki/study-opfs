@@ -12,7 +12,7 @@
   },
   "homepage": "https://yuiseki.github.io/study-opfs",
   "dependencies": {
-    "lucide-react": "^0.456.0",
+    "lucide-react": "^0.460.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
